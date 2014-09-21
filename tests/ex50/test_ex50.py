@@ -1,5 +1,5 @@
 from nose.tools import *
-from NAME import myfile
+from ex50 import ex50
 
 
 def setup():
